@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "buttonText": "AI response button text: Get started",
+        "linkText": "AI response link text: Learn more",
+        "subtitle": "AI response subtitle: Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.",
+        "title": "AI response title: Deploy to the cloud with confidence"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    },
+    {
+      "id": "HeroSplitWithScreenshot",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision.",
+        "title": "Gamble: Innovate Beyond Limits"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Gamble: Innovate Beyond Limits",
+  "subtitle": "Engineering Solutions for Tomorrow, Developed with Precision and Vision."
+}
